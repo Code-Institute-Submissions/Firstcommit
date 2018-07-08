@@ -248,6 +248,7 @@ position:relative;
     display: table;
 }
 
+
 /*------------UpcomingConcerts--------------*/ 
 
 .concert{
@@ -288,3 +289,4 @@ th, td {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
