@@ -3,7 +3,7 @@
 /*---------Navbar---------*/
 
 .navbar {
-    margin-bottom: 0px;
+    margin: 0;
     position: absolute;
     top: 0;
     left: 0;
@@ -11,15 +11,19 @@
     z-index: 1;
     background-color: #000019;
     border: 0;
-    font-family: "Exo"
+    font-family: "Exo";
+    padding: 0;
+    
 }
 
 .navbar-default .navbar-collapse {
     border-color: transparent;
+    
 }
 
 .navbar-default .navbar-toggle {
     border: 0;
+    position: relative;
 }
 
 .navbar-default .navbar-toggle:hover {
@@ -44,6 +48,7 @@
 
 .navbar-default .navbar-nav a {
     font-weight: bold;
+    color: white;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -63,24 +68,15 @@
     font-size: 40px;
 }
 
-.genres{
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
- 
-   color: white;
-  margin-left: 700px;
-  
-}
 
-    
+
 
 
 /*------------Social Links----------------*/
 
 .social-links{
-    padding-bottom: 15px;
-    margin-top: 5px;
-    margin-right: 5px;
+    padding: 5px;
+   
   
 }
 
@@ -168,9 +164,13 @@ color:#52aad8;
     justify-content: center;
 
     position: relative;
+    overflow: hidden;
+    
 }
 
-
+.row-content{
+    padding: 20px;
+}
 /*------------Main Page----------------*/ 
 
 .cemadrian{
@@ -219,34 +219,11 @@ position:relative;
    font-size: 18px;
    color: white;  
    text-align: left; 
+
 }
 
 
 
-
-/*------------Albums----------------*/ 
-
-
-  .column {
- float: left;
- padding: 15px;
- width: 33.33%;
- position: relative;
- overflow: hidden;
-}
-
-.img-album{
-  height: 130px;
-  width:215px;
-  margin-top: 60px;
-  
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
 
 
 /*------------UpcomingConcerts--------------*/ 
@@ -279,7 +256,7 @@ th, td {
     text-decoration: uppercase;
     font-weight: 300;
     font-size: 50px;
-   text-decoration: underline;
+
 }
 
 .hover{
@@ -289,4 +266,171 @@ th, td {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+
+
+
+/*--------------ALBUMS----------------*/
+
+
+.audioplayer{
+    size: auto;
+    display:block;
+    margin: auto;
+    padding: 50px;
+    min-height: 5px;
+    float: left;
+    position: relative;
+  
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+  
+    
+}
+
+  
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+
+@media only screen 
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen 
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    
+    
+/* Styles */
+
+}
+
+/* iPads (landscape) ----------- */
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+    
+    
+/* Styles */
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+    
+    
+/* Styles */
+
+}
+
+/*----- Desktops and laptops ----------- */
+
+@media only screen 
+and (min-width : 1224px) {
+    
+/* Styles */
+}
+
+
+/*----------- Large screens ----------- */
+
+@media only screen 
+and (min-width : 1824px) {
+    
+/* Styles */
+
+
+}
+
+/*---------------- iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+    
+/* Styles */
+
+
+}
+
+
+/* iPhone 6 landscape */
+
+@media only screen and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2)
+{ }
+
+/* iPhone 6 portrait */
+
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2)
+{ }
+
+/* iPhone 6 Plus landscape */
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 3)
+{ }
+
+/* iPhone 6 Plus portrait */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 3)
+{ }
+
+/* iPhone 6 and 6 Plus */
+
+@media only screen
+  and (max-device-width: 640px),
+  only screen and (max-device-width: 667px),
+  only screen and (max-width: 480px)
+{ }
+
+/* Apple Watch */
+
+@media
+  (max-device-width: 42mm)
+  and (min-device-width: 38mm)
+{ }
+
+
+
+
+
+
+
+
 
