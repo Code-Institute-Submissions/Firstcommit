@@ -1,6 +1,7 @@
 # CEM ADRIAN - Mini Project for Code Institute.
 
-+# MilestoneMiniProject- Version 1.0 4 August 2018.
+# MilestoneMiniProject- Version 1.0 4 August 2018.
+
 As it is my first commit, My wife suggested me to make a web site for a Turkish Singer "Cem Adrian". He is not too famous though his skills. 
 
 Actually, I tried to keep the things simple. One video from You Tube in the main Page, a biography Page, 6 sample music in mp3 format and
