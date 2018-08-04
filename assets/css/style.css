@@ -140,7 +140,7 @@ color:#52aad8;
     
 .container-footer{
     
-    bottom: 0px;
+    margin-bottom: 10px;
     position: absolute;
     height: 50px;
     width: 100%;
@@ -165,12 +165,10 @@ color:#52aad8;
 
     position: relative;
     overflow: hidden;
-    
+  margin-bottom: 0 ;
 }
 
-.row-content{
-    padding: 20px;
-}
+
 /*------------Main Page----------------*/ 
 
 .cemadrian{
@@ -208,9 +206,10 @@ position:relative;
   font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 18px;
-    margin-top: 60px;
+    padding-bottom: 60px;
+    padding-top: 40px;
     color: white;
-    margin-bottom: 40px;
+    
 }
 
 .bio-summary{
@@ -219,10 +218,12 @@ position:relative;
    font-size: 18px;
    color: white;  
    text-align: left; 
-
+ padding-bottom: 20px ;
 }
 
-
+.row-content{
+    padding: 20px;
+}
 
 
 
@@ -253,7 +254,7 @@ th, td {
 .concertdates{
     margin-top: 65px;
     text-align: center;
-    text-decoration: uppercase;
+    text-transform: uppercase ;
     font-weight: 300;
     font-size: 50px;
 
