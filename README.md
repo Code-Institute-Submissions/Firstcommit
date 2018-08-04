@@ -63,9 +63,10 @@ This website is for the fans to listen sample music and to know about the when a
  
  [MIlestone Project](https://usercentricfrontendproject-orion555.c9users.io/index.html)
  
- ## BUG
+ ## BUGs
  
- There is also a small white area in the each page has a white sub-footer underneath the main footer needs to be fixed.
+ . There is also a small white area in the each page has a white sub-footer underneath the main footer needs to be fixed.
+ . YouTube icon color will be fixed.
  
  
  ## Credits
