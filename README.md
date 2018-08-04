@@ -23,7 +23,7 @@ This website is for the fans to listen sample music and to know about the when a
  
  1.Home Page
  
- Home Page includes only one sample video with well known pinaist Fazil Say.
+ Home Page includes only one sample video with well known pianist Fazil Say.
  
  2. Bio- Biography
  
@@ -44,6 +44,9 @@ This website is for the fans to listen sample music and to know about the when a
  . Social Network icon color, shapes  will be emhanced.
  . Contact Me Page will be included.
  
+ ## Technologies Used.
+ 
+ [Bootstrap 3.3.7](https://getbootstrap.com/docs/3.3/getting-started/)
  
  
  
