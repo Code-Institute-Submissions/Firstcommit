@@ -1,4 +1,4 @@
-# CEM ADRIAN - Mini Project for Code Institute.
+#  Mini Project for Code Institute. CEM ADRIAN - Fan Website
 
 ## MilestoneMiniProject- Version 1.0 4 August 2018.
 
@@ -68,7 +68,7 @@ This website is for the fans to listen sample music and to know about the when a
 
  The video in the main Page is embedded from [YouTube](https://www.youtube.com/watch?v=R7r06BeALwU)
   
- ##Acknowledgements
+ ## Acknowledgements
  
  My wife couraged me to create a website for this singer.
  
