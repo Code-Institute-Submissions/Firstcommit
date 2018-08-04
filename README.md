@@ -59,7 +59,14 @@ This website is for the fans to listen sample music and to know about the when a
  I tested it with Google DevTools and it works well with any Tablet PC, Large Screens but though it works well 80% of mobile devices.
  
  As a web browser, I tested on Google Chrome, Firefox, Safari and IE (IE6 & IE7 not supported).
+ 
+ 
  [MIlestone Project](https://usercentricfrontendproject-orion555.c9users.io/index.html)
+ 
+ ## BUG
+ 
+ There is also a small white area in the each page has a white sub-footer underneath the main footer needs to be fixed.
+ 
  
  ## Credits
  
