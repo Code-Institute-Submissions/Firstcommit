@@ -62,10 +62,15 @@ This website is for the fans to listen sample music and to know about the when a
  
  ## Credits
  
- The Bio summary is taken from [Wikipedia](https://en.wikipedia.org/wiki/Cem_Adrian)
+ The Bio summary is obtained from [Wikipedia](https://en.wikipedia.org/wiki/Cem_Adrian)
  
+ ## Media
+
+ The video in the main Page is embedded from [YouTube](https://www.youtube.com/watch?v=R7r06BeALwU)
+  
+ ##Acknowledgements
  
- I  
+ My wife couraged me to create a website for this singer.
  
  
  
