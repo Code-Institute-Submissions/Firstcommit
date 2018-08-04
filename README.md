@@ -48,6 +48,26 @@ This website is for the fans to listen sample music and to know about the when a
  
  [Bootstrap 3.3.7](https://getbootstrap.com/docs/3.3/getting-started/)
  
+ [jQuery](https://code.jquery.com/)
+ 
+ [Google Fonts](https://fonts.google.com/)
+ 
+ mp3 content is taken from MIXCLOUD.
+ 
+ ## Testing
+ 
+ I tested it with Google DevTools and it works well with any Tablet PC, Large Screens but though it works well 80% of mobile devices.
+ 
+ As a web browser, I tested on Google Chrome, Firefox, Safari and IE (IE 6, IE 7 not supported).
+ 
+ ## Credits
+ 
+ The Bio summary is taken from [Wikipedia](https://en.wikipedia.org/wiki/Cem_Adrian)
+ 
+ 
+ I  
+ 
+ 
  
  
  
