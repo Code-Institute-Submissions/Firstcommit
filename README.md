@@ -40,8 +40,11 @@ For anyone who wants to listen to him live, concert dates and concert places can
 . Contact Me Page will be included.
 
 ## Technologies Used.
+
 [Bootstrap 3.3.7](https://getbootstrap.com/docs/3.3/getting-started/)
+
 [jQuery](https://jquery.com/)
+
 [Google Fonts](https://fonts.google.com/)
 
 
