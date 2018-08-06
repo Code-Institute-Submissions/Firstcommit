@@ -65,8 +65,12 @@ This website is for the fans to listen sample music and to know about the when a
  
  ## BUGs
  
+<<<<<<< HEAD
  . There is also a small white area in the each page has a white sub-footer underneath the main footer needs to be fixed.
  
+=======
+
+>>>>>>> 60b1c27be1ce68c87e0d88cd97cebe53d0b083cc
  . YouTube icon color will be fixed.
  
  
