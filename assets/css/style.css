@@ -96,10 +96,11 @@ margin: 3px 3px;
 }
 
 .fa-youtube {
-background-color: white;    
+ color: #bb0000;    
+ background-color: white;    
 
 
-color: #bb0000;
+
 
 }
 
@@ -141,16 +142,14 @@ color:#52aad8;
     
 .container-footer{
     
-    margin-bottom: 10px;
-    position: absolute;
-    height: 50px;
-    width: 100%;
-    z-index: 1;
+    
     background-color: #000019;
-    border: 0;
+    
     font-family: "Exo"
    
 }
+
+
 
 .container-main{
     
@@ -166,7 +165,7 @@ color:#52aad8;
 
     position: relative;
     overflow: hidden;
-  margin-bottom: 0 ;
+    margin-bottom: 0 ;
 }
 
 
@@ -182,7 +181,7 @@ color:#52aad8;
 
 .container-video{
 
-position:relative;
+    position:relative;
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
@@ -219,13 +218,13 @@ position:relative;
    font-size: 18px;
    color: white;  
    text-align: left; 
- padding-bottom: 20px ;
+   display:inline-table;
 }
 
 .row-content{
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
-
 
 
 /*------------UpcomingConcerts--------------*/ 
@@ -236,6 +235,7 @@ position:relative;
     font-weight: 300;
     color: white;
     margin-top: 10px;
+  
 }
 
 th, td {
