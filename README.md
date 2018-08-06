@@ -32,7 +32,8 @@ There are only 6 sample music in mp3 format.
 4.Concerts
 
 For anyone who wants to listen to him live, concert dates and concert places can be found on this Page.
-Features to implement in the future.
+
+## Features to implement in the future.
 
 . Blog Section . Audio Player will be enchanced with the name of the music. 
 . Social Network icon color, shapes will be emhanced. 
@@ -40,9 +41,9 @@ Features to implement in the future.
 
 ## Technologies Used.
 [Bootstrap 3.3.7](https://getbootstrap.com/docs/3.3/getting-started/)
-jQuery
-Google Fonts
-mp3 content is taken from MIXCLOUD.
+[jQuery](https://jquery.com/)
+[Google Fonts](https://fonts.google.com/)
+
 
 ## Testing
 I tested it with Google DevTools and it works well with any Tablet PC, Large Screens but though it works well 80% of mobile devices.
