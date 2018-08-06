@@ -53,8 +53,6 @@ I tested it with Google DevTools and it works well with any Tablet PC, Large Scr
 As a web browser, I tested on Google Chrome, Firefox, Safari and IE (IE6 & IE7 not supported).
 Milestone Project
 
-## BUGs
-. YouTube icon color will be fixed.
 
 ## Credits
 The Bio summary is obtained from Wikipedia.
