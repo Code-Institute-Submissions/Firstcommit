@@ -36,7 +36,9 @@ For anyone who wants to listen to him live, concert dates and concert places can
 ## Features to implement in the future.
 
 . Blog Section . Audio Player will be enchanced with the name of the music. 
+
 . Social Network icon color, shapes will be emhanced. 
+
 . Contact Me Page will be included.
 
 ## Technologies Used.
